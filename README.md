@@ -19,3 +19,8 @@ create .env file in your root directory and enter below data :
 
 #  To execute the test cases use command
  behave 
+ 
+ Note:
+ To convert result.jason to Allure Report please find the below command.
+ 
+ allure serve reports/
