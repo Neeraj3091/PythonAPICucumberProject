@@ -21,6 +21,9 @@ create .env file in your root directory and enter below data :
  behave 
  
  Note:
+ To create a report :
+ --> behave --format=json -o result.json
+
  To convert result.jason to Allure Report please find the below command.
+ --> allure serve reports/
  
- allure serve reports/
