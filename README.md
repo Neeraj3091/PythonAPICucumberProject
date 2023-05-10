@@ -8,7 +8,7 @@ from the link :https://cucumber.io/docs/installation/
 follow steps in link - https://behave.readthedocs.io/en/stable/install.html
 
 # > Install bellow Packages from pycharm or cmd.
-	1) api-testing -> pip install api-testing
+	1) requests -> pip install requests
 	2) behave2cucumber -> pip install behave2cucumber
 	3) pytest-bdd -> pip install pytest-bdd
 	4) EnvFile -> pip install envfile 
